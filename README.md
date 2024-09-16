@@ -17,6 +17,3 @@ This project demonstrates the use of deep learning for image classification on t
 
 ## Usage
 Run the Jupyter notebooks to train and evaluate models.
-
-## License
-MIT License
